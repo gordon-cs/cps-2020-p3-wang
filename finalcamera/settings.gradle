@@ -1,0 +1,2 @@
+rootProject.name='Finalcamera'
+include ':app'
